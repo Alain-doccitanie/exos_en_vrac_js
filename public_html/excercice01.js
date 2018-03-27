@@ -1,7 +1,8 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
+function excercice01(){
+var message = "hello world";
+var longueur = message.length;
+for (var i=0;i<longueur;i++){
+   //console log pour afficher un caractere par passage de la boucle pour avoir 1 carac par ligne
+   console.log(message[i]);
+}
+}
