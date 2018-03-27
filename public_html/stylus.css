@@ -19,9 +19,12 @@ button {
     width: 80%;
 }
 
-
-
 .hidden {
+    display: none;
+}
+
+
+.exercice {
     border: 1px solid lightslategrey;
     text-align: center;
 }
