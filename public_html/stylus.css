@@ -1,1 +1,36 @@
+body {
+    background: silver;
+}
 
+h3 {
+    font-family: Arial;
+    font-size: 36px;
+}
+
+button {
+    margin: 15px;
+    text-align: right;
+    
+}
+
+.test {
+    margin-bottom: 20px;
+    margin-left: 10%;
+    width: 80%;
+}
+
+
+
+.hidden {
+    border: 1px solid lightslategrey;
+    text-align: center;
+}
+
+.resultat {
+    border: 1px dashed lightslategray;
+    
+}
+
+.right {
+    margin-left: 93%;
+}
